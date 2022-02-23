@@ -1,0 +1,173 @@
+Citation,Study_Species,Species_analyze,Tree_taxon,Family,SiteLatitude,SiteLongitude,elevation.m,Sex,Mass,SVL,EstimationMethod,Home_range,MEAN_NPP,Total_Precip,MnAnnTemp,SD_Temp,IUCN habitats,IUCN aquatic,Aquatic index
+Smith et al. 2009,Agkistrodon contortrix,Agkistrodon contortrix,Agkistrodon_contortrix,Viperidae,41.564999,-72.75942,123,Male,262.06,72.53,95KD,27.09,10527.9,1212.51,98.67,92.34,3,1,0.33
+Smith et al. 2009,Agkistrodon contortrix,Agkistrodon contortrix,Agkistrodon_contortrix,Viperidae,41.564999,-72.75942,123,Female,174.25,61.94,95KD,7.25,10527.9,1212.51,98.67,92.34,3,1,0.33
+Sutton et al. 2017,Agkistrodon contortrix,Agkistrodon contortrix,Agkistrodon_contortrix,Viperidae,34.24,-87.414,240,Male,262.06,72.53,95KD,17.8,7306.452703,1493.635135,152.6527778,79.8636545,3,1,0.333333333
+Sutton et al. 2017,Agkistrodon contortrix,Agkistrodon contortrix,Agkistrodon_contortrix,Viperidae,34.24,-87.414,240,Female,174.25,61.94,95KD,7.1,7306.452703,1493.635135,152.6527778,79.8636545,3,1,0.333333333
+Roth 2005,Agkistrodon piscivorus,Agkistrodon piscivorus,Agkistrodon_piscivorus,Viperidae,30.626465,-95.542789,110,Male,284.5,58.9,95MCP,1.86,5040.95,1149.55,193.83,71.35,21,19,0.9
+Roth 2005,Agkistrodon piscivorus,Agkistrodon piscivorus,Agkistrodon_piscivorus,Viperidae,30.626465,-95.542789,110,Female,218.7,53.2,95MCP,0.372,5040.95,1149.55,193.83,71.35,21,19,0.9
+Linn et al. 2006,Bitis gabonica,Bitis gabonica,Bitis_gabonica,Viperidae,-28.421183,32.284239,55,Male,1394,97.17,100MCP,39.55,16451.87,1049.38,217.29,28.14,8,1,0.13
+Linn et al. 2006,Bitis gabonica gabonica,Bitis gabonica,Bitis_gabonica,Viperidae,-28.421183,32.284239,55,Female,1981,93.08,100MCP,12.6,16451.87,1049.38,217.29,28.14,8,1,0.13
+Warner 2009,Bitis gabonica,Bitis gabonica,Bitis_gabonica,Viperidae,-27.636135,32.582517,32,Male,1394,97.17,100MCP,42.48,11433.8,903.66,220.77,28.47,8,1,0.13
+Warner 2009,Bitis gabonica,Bitis gabonica,Bitis_gabonica,Viperidae,-27.636135,32.582517,32,Female,1981,93.08,100MCP,7.72,11433.8,903.66,220.77,28.47,8,1,0.13
+Wasko and Sasa 2009,Bothrops asper,Bothrops asper,Bothrops_asper,Viperidae,10.431253,-84.0036,48,Male,553,107.08,100MCP,6.29,9811.21,4034.24,258.56,7.73,8,0,0
+Wasko and Sasa 2009,Bothrops asper,Bothrops asper,Bothrops_asper,Viperidae,10.431253,-84.0036,48,Female,942.75,125.59,100MCP,5.8,9811.21,4034.24,258.56,7.73,8,0,0
+Puente-Rolon and Bird-Pico 2004,Epicrates inornatus,Epicrates inornatus,Chilabothrus_inornatus,Boidae,18.415459,-66.725843,140,Male,861.2,136.56,100MCP,5,11194.07,1726.68,246.47,12.71,8,1,0.13
+Puente-Rolon and Bird-Pico 2004,Epicrates inornatus,Epicrates inornatus,Chilabothrus_inornatus,Boidae,18.415459,-66.725843,140,Female,1124.6,151.11,100MCP,7.89,11194.07,1726.68,246.47,12.71,8,1,0.13
+Wunderle et al. 2004,Epicrates inornatus,Epicrates inornatus,Chilabothrus_inornatus,Boidae,18.310011,-65.74253,200,Male,861.2,136.56,95MCP,12.9,11524.59,2382.96,239.5,13.07,8,1,0.13
+Wunderle et al. 2004,Epicrates inornatus,Epicrates inornatus,Chilabothrus_inornatus,Boidae,18.310011,-65.74253,200,Female,1124.6,151.11,95MCP,10.29,11524.59,2382.96,239.5,13.07,8,1,0.13
+Miersma 2006,Epicrates subflavus,Epicrates subflavus,Chilabothrus_subflavus,Boidae,18.353344,-77.658142,75,Male,1725,152,95MCP,12.25,15347.88,1804.81,238.17,9.87,7,1,0.14
+Miersma 2006,Epicrates subflavus,Epicrates subflavus,Chilabothrus_subflavus,Boidae,18.353344,-77.658142,75,Female,1952,155,95MCP,2.95,15347.88,1804.81,238.17,9.87,7,1,0.14
+Brown and Parker 1976,Coluber constrictor,Coluber constrictor,Coluber_constrictor,Colubridae,40.604636,-112.538353,1580,Female,117.6,68.5,100MCP,1.45,1758.36,404.86,92.54,93.44,13,2,0.15
+Carfagno and Weatherhead 2008,Coluber constrictor,Coluber constrictor,Coluber_constrictor,Colubridae,37.372805,-88.964218,104,Male,558.7,119.6,100MCP,21.9,6121.11,1193.97,136.15,92.6,13,2,0.15
+Carfagno and Weatherhead 2008,Coluber constrictor,Coluber constrictor,Coluber_constrictor,Colubridae,37.372805,-88.964218,104,Female,553.6,120.6,100MCP,19.6,6121.11,1193.97,136.15,92.6,13,2,0.15
+Gardiner et al. 2013,Coluber constrictor flaviventris,Coluber constrictor,Coluber_constrictor,Colubridae,49.168381,-107.632244,786,Male,136,72,95KD,14.7,2698.73,319.57,39.89,115.09,13,2,0.15
+Gardiner et al. 2013,Coluber constrictor flaviventris,Coluber constrictor,Coluber_constrictor,Colubridae,49.168381,-107.632244,786,Female,167,75,95KD,13.7,2698.73,319.57,39.89,115.09,13,2,0.15
+Klug et al. 2011,Coluber constrictor,Coluber constrictor,Coluber_constrictor,Colubridae,39.096236,-96.598181,388,Male,113,65.5,100MCP,21.64,3229.07,862.75,121.04,104.21,13,2,0.15
+Klug et al. 2011,Coluber constrictor flaviventris,Coluber constrictor,Coluber_constrictor,Colubridae,39.096236,-96.598181,388,Female,160.3,71.7,100MCP,6.36,3229.07,862.75,121.04,104.21,13,2,0.15
+Martino et al. 2012,Coluber constrictor,Coluber constrictor,Coluber_constrictor,Colubridae,49.168381,-107.632244,786,Male,113,65.5,100MCP,192,2698.73,319.57,39.89,115.09,13,2,0.15
+Martino et al. 2012,Coluber constrictor flaviventris,Coluber constrictor,Coluber_constrictor,Colubridae,49.168381,-107.632244,786,Female,160.3,71.7,100MCP,83,2698.73,319.57,39.89,115.09,13,2,0.15
+Halstead et al. 2009,Masticophis flagellum,Coluber flagellum,Coluber_flagellum,Colubridae,27.781257,-81.449238,25,Male,634,146.7,90KD,213,7469.82,1238.88,224.02,44.44,11,0,0
+Halstead et al. 2009,Masticophis flagellum,Coluber flagellum,Coluber_flagellum,Colubridae,27.781257,-81.449238,25,Female,509.5,137.8,90KD,157,7469.82,1238.88,224.02,44.44,11,0,0
+Howze and Smith 2015,Masticophis flagellum,Coluber flagellum,Coluber_flagellum,Colubridae,31.250659,-84.37259,50,Male,693.8,146.7,100MCP,117.9,6969.61,1321.95,192.67,65.74,11,0,0
+Howze and Smith 2015,Masticophis flagellum,Coluber flagellum,Coluber_flagellum,Colubridae,31.250659,-84.37259,50,Female,496.4,137.8,100MCP,65.2,6969.61,1321.95,192.67,65.74,11,0,0
+Hoss et al. 2010,Crotalus adamanteus,Crotalus adamanteus,Crotalus_adamanteus,Viperidae,31.250659,-84.37259,50,Male,1751,120.8,100MCP,30.49,6969.61,1321.95,192.67,65.74,6,0,0
+Hoss et al. 2010,Crotalus adamanteus,Crotalus adamanteus,Crotalus_adamanteus,Viperidae,31.250659,-84.37259,50,Female,1099,110.2,100MCP,20.59,6969.61,1321.95,192.67,65.74,6,0,0
+Timmerman 1995,Crotalus adamanteus,Crotalus adamanteus,Crotalus_adamanteus,Viperidae,29.686194,-81.996578,44,Male,1764,117.7,100MCP,84.31,7684.5,1314.23,203.4,55.2,6,0,0
+Timmerman 1995,Crotalus adamanteus,Crotalus adamanteus,Crotalus_adamanteus,Viperidae,29.686194,-81.996578,44,Female,1664,129.45,100MCP,46.53,7684.5,1314.23,203.4,55.2,6,0,0
+Waldron et al. 2006,Crotalus adamanteus,Crotalus adamanteus,Crotalus_adamanteus,Viperidae,32.841667,-81.171224,23,Male,1764,126,95KD,84.82,9017.82,1235.84,181.95,68.89,6,0,0
+Waldron et al. 2006,Crotalus adamanteus,Crotalus adamanteus,Crotalus_adamanteus,Viperidae,32.841667,-81.171224,23,Female,1664,124,95KD,28.63,9017.82,1235.84,181.95,68.89,6,0,0
+Schuett et al. 2013,Crotalus atrox,Crotalus atrox,Crotalus_atrox,Viperidae,32.669117,-111.123028,850,Female,279.17,85.76,100MCP,4.74,1258.08,404,197.31,75.38,8,0,0
+Secor 1994,Crotalus cerastes,Crotalus cerastes,Crotalus_cerastes,Viperidae,34.979619,-115.638561,690,Male,127.84,51.36,100MCP,28.79,1130.92,146.94,190.94,82.31,1,0,0
+Secor 1994,Crotalus cerastes,Crotalus cerastes,Crotalus_cerastes,Viperidae,34.979619,-115.638561,690,Female,125.18,53.33,100MCP,18.76,1130.92,146.94,190.94,82.31,1,0,0
+Adams 2005,Crotalus horridus,Crotalus horridus,Crotalus_horridus,Viperidae,38.954376,-79.901147,900,Male,1048,106.58,100MCP,94.3,6818.57,1253.18,94.45,83.78,4,1,0.25
+Adams 2005,Crotalus horridus,Crotalus horridus,Crotalus_horridus,Viperidae,38.954376,-79.901147,900,Female,781,96.59,100MCP,31.2,6818.57,1253.18,94.45,83.78,4,1,0.25
+Reinert and Rupert 1999,Crotalus horridus,Crotalus horridus,Crotalus_horridus,Viperidae,40.65965,-75.91804,300,Male,785.25,97.15,100MCP,59.9,6894.78,1197.91,94.08,92.17,4,1,0.25
+Reinert and Rupert 1999,Crotalus horridus,Crotalus horridus,Crotalus_horridus,Viperidae,40.65965,-75.91804,300,Female,543.1,86.19,100MCP,41.86,6894.78,1197.91,94.08,92.17,4,1,0.25
+Reinert and Zappalorti 1988,Crotalus horridus,Crotalus horridus,Crotalus_horridus,Viperidae,39.278245,-74.807191,30,Male,1048,106.58,100MCP,48.63,7747.35,1085.62,123.62,85.65,4,1,0.25
+Reinert and Zappalorti 1988,Crotalus horridus,Crotalus horridus,Crotalus_horridus,Viperidae,39.278245,-74.807191,30,Female,781,96.59,100MCP,15.03,7747.35,1085.62,123.62,85.65,4,1,0.25
+Waldron et al. 2006,Crotalus horridus,Crotalus horridus,Crotalus_horridus,Viperidae,32.841667,-81.171224,23,Male,1311,116,95KD,48.38,9017.82,1235.84,181.95,68.89,4,1,0.25
+Waldron et al. 2006,Crotalus horridus,Crotalus horridus,Crotalus_horridus,Viperidae,32.841667,-81.171224,23,Female,1019,107,95KD,30.82,9017.82,1235.84,181.95,68.89,4,1,0.25
+MacGowan et al. 2017,Crotalus horridus,Crotalus horridus,Crotalus_horridus,Viperidae,38.5,-86.3,200,Male,1048,106.58,100MCP,68.8,6491.929032,1166.092473,119.8329749,91.53214104,4,1,0.25
+MacGowan et al. 2017,Crotalus horridus,Crotalus horridus,Crotalus_horridus,Viperidae,38.5,-86.3,200,Female,781,96.59,100MCP,22.7,6491.929032,1166.092473,119.8329749,91.53214104,4,1,0.25
+Glaudas and Rodriguez-Robles 2011,Crotalus mitchellii,Crotalus mitchellii,Crotalus_mitchellii,Viperidae,35.736261,-114.826433,1050,Male,558.6,85.3,95KD,19,1041.13,156.12,182.95,85.31,6,0,0
+Glaudas and Rodriguez-Robles 2011,Crotalus mitchellii,Crotalus mitchellii,Crotalus_mitchellii,Viperidae,35.736261,-114.826433,1050,Female,373.9,74.6,95KD,8,1041.13,156.12,182.95,85.31,6,0,0
+Greenberg et al. 2002,Crotalus mitchellii,Crotalus mitchellii,Crotalus_mitchellii,Viperidae,33.583372,-116.337711,1100,Male,558.6,85.3,100MCP,28.03,2628,287.19,171.35,69.25,6,0,0
+Greenberg et al. 2002,Crotalus mitchellii,Crotalus mitchellii,Crotalus_mitchellii,Viperidae,33.583372,-116.337711,1100,Female,373.9,74.6,100MCP,11.91,2628,287.19,171.35,69.25,6,0,0
+Parker and Anderson 2007,Crotalus oreganus,Crotalus oreganus,Crotalus_oreganus,Viperidae,41.00297,-109.512785,2100,Male,138.7,58.3,100MCP,117.8,1279.49,258.73,64.63,92.47,6,0,0
+Parker and Anderson 2007,Crotalus oreganus concolor,Crotalus oreganus,Crotalus_oreganus,Viperidae,41.00297,-109.512785,2100,Female,106.4,52.5,100MCP,63.9,1279.49,258.73,64.63,92.47,6,0,0
+Prival et al. 2002,Crotalus pricei,Crotalus pricei,Crotalus_pricei,Viperidae,31.902524,-109.278465,2600,Male,67.2,42.32,100MCP,1.34,2474.51,576.75,110.94,63.92,3,0,0
+Prival et al. 2002,Crotalus pricei,Crotalus pricei,Crotalus_pricei,Viperidae,31.902524,-109.278465,2600,Female,58,41.97,100MCP,0.326,2474.51,576.75,110.94,63.92,3,0,0
+Greenberg et al. 2002,Crotalus ruber,Crotalus ruber,Crotalus_ruber,Viperidae,33.583372,-116.337711,1100,Male,NA,93.9,100MCP,25.78,2628,287.19,171.35,69.25,6,0,0
+Greenberg et al. 2002,Crotalus ruber,Crotalus ruber,Crotalus_ruber,Viperidae,33.583372,-116.337711,1100,Female,NA,83.2,100MCP,5.85,2628,287.19,171.35,69.25,6,0,0
+Cardwell 2008,Crotalus scutulatus,Crotalus scutulatus,Crotalus_scutulatus,Viperidae,34.6,-117.166667,968,Male,280.3,76.2,100MCP,31.6,1811.94,202.8,156.76,73.59,8,0,0
+Cardwell 2008,Crotalus scutulatus,Crotalus scutulatus,Crotalus_scutulatus,Viperidae,34.6,-117.166667,968,Female,236,70.6,100MCP,5.6,1811.94,202.8,156.76,73.59,8,0,0
+Gardiner et al. 2013,Crotalus viridis,Crotalus viridis,Crotalus_viridis,Viperidae,49.168381,-107.632244,786,Male,654,86,100MCP,78.2,2698.73,319.57,39.89,115.09,7,0,0
+Gardiner et al. 2013,Crotalus viridis,Crotalus viridis,Crotalus_viridis,Viperidae,49.168381,-107.632244,786,Female,497,89,100MCP,128.8,2698.73,319.57,39.89,115.09,7,0,0
+Shipley et al. 2013,Crotalus viridis,Crotalus viridis,Crotalus_viridis,Viperidae,39.655819,-104.736464,1763,Male,520,87.7,100MCP,17.8,2618.15,408.28,94.68,86.67,7,0,0
+Shipley et al. 2013,Crotalus viridis,Crotalus viridis,Crotalus_viridis,Viperidae,39.655819,-104.736464,1763,Female,486.7,83.9,100MCP,18,2618.15,408.28,94.68,86.67,7,0,0
+Breininger et al. 2011,Drymarchon couperi,Drymarchon couperi,Drymarchon_couperi,Colubridae,28.609696,-80.699263,1,Male,1750,184,100MCP,201.7,9684.42,1317.54,217.03,45.83,3,0,0
+Breininger et al. 2011,Drymarchon couperi,Drymarchon couperi,Drymarchon_couperi,Colubridae,28.609696,-80.699263,1,Female,1310,169,100MCP,75.6,9684.42,1317.54,217.03,45.83,3,0,0
+Hyslop et al. 2014,Drymarchon couperi,Drymarchon couperi,Drymarchon_couperi,Colubridae,31.799037,-81.570843,13,Male,2200,158,100MCP,507.67,12640.14,1247.05,191.78,65.02,3,0,0
+Hyslop et al. 2014,Drymarchon couperi,Drymarchon couperi,Drymarchon_couperi,Colubridae,31.799037,-81.570843,13,Female,1500,138,100MCP,101.5,12640.14,1247.05,191.78,65.02,3,0,0
+Shine et al. 2003,Gloydius shedaoensis,Gloydius shedaoensis,Gloydius_shedaoensis,Viperidae,38.951072,120.979858,50,Male,197.57,62.99,100MCP,0.2851,9412,593,107.5,105.87,2,0,0
+Shine et al. 2003,Gloydius shedaoensis,Gloydius shedaoensis,Gloydius_shedaoensis,Viperidae,38.951072,120.979858,50,Female,192.9,63.3,100MCP,0.2492,9412,593,107.5,105.87,2,0,0
+Plummer and Mills 2000,Heterodon platirhinos,Heterodon platirhinos,Heterodon_platirhinos,Dipsadidae,35.257403,-91.749761,70,Male,195.5,52.4,100MCP,46.5,6265.97,1297.34,159.21,86.48,3,0,0
+Plummer and Mills 2000,Heterodon platirhinos,Heterodon platirhinos,Heterodon_platirhinos,Dipsadidae,35.257403,-91.749761,70,Female,298.3,65.5,100MCP,56.33,6265.97,1297.34,159.21,86.48,3,0,0
+Buchanan et al. 2017,Heterodon platirhinos,Heterodon platirhinos,Heterodon_platirhinos,Dipsadidae,42.070258,-70.212607,2,Male,195.5,51.8,100MCP,11.725,5464.608696,1109.067797,96.26694915,84.19552065,3,0,0
+Buchanan et al. 2017,Heterodon platirhinos,Heterodon platirhinos,Heterodon_platirhinos,Dipsadidae,42.070258,-70.212607,2,Female,298.3,62.4,100MCP,40.99,5464.608696,1109.067797,96.26694915,84.19552065,3,0,0
+Ciofi and Chelazzi 1991,Coluber viridiflavus,Hierophis viridiflavus,Hierophis_viridiflavus,Colubridae,43.832854,11.273957,110,Male,313,83.8,100MCP,5.06,9082.44,881.03,131.47,68.52,8,0,0
+Ciofi and Chelazzi 1991,Coluber viridiflavus,Hierophis viridiflavus,Hierophis_viridiflavus,Colubridae,43.832854,11.273957,110,Female,241,74.3,100MCP,1.09,9082.44,881.03,131.47,68.52,8,0,0
+Lelievre et al. 2012,Hierophis viridiflavus,Hierophis viridiflavus,Hierophis_viridiflavus,Colubridae,46.120653,0.425092,175,Male,257.1,90.7,100MCP,14.99,7764.85,848.33,114.73,56.36,8,0,0
+Lelievre et al. 2012,Hierophis viridiflavus,Hierophis viridiflavus,Hierophis_viridiflavus,Colubridae,46.120653,0.425092,175,Female,188.8,86.4,100MCP,5.23,7764.85,848.33,114.73,56.36,8,0,0
+Croak et al. 2013,Hoplocephalus bungaroides,Hoplocephalus bungaroides,Hoplocephalus_bungaroides,Elapidae,-33.018011,150.932566,260,Male,54.8,59,100MCP,4.03,14631.13,878.79,164.4,47.27,NA,NA,NA
+Croak et al. 2013,Hoplocephalus bungaroides,Hoplocephalus bungaroides,Hoplocephalus_bungaroides,Elapidae,-33.018011,150.932566,260,Female,55.8,60.52,100MCP,3.77,14631.13,878.79,164.4,47.27,NA,NA,NA
+Webb and Shine 1997,Hoplocephalus bungaroides,Hoplocephalus bungaroides,Hoplocephalus_bungaroides,Elapidae,-34.658157,150.481386,400,Male,47.53,56.1,100MCP,3.26,15473.66,1405.51,139.53,42.54,NA,NA,NA
+Webb and Shine 1997,Hoplocephalus bungaroides,Hoplocephalus bungaroides,Hoplocephalus_bungaroides,Elapidae,-34.658157,150.481386,400,Female,50.89,58.7,100MCP,2.79,15473.66,1405.51,139.53,42.54,NA,NA,NA
+Fitzgerald et al. 2002,Hoplocephalus stephensii,Hoplocephalus stephensii,Hoplocephalus_stephensii,Elapidae,-28.558486,153.373348,221,Male,136.73,75.11,95KD,25.67,17890.8,1867.86,181.18,36.53,1,0,0
+Fitzgerald et al. 2002,Hoplocephalus stephensii,Hoplocephalus stephensii,Hoplocephalus_stephensii,Elapidae,-28.558486,153.373348,221,Female,109.35,73.13,95KD,5.26,17890.8,1867.86,181.18,36.53,1,0,0
+Richardson et al. 2006,Lampropeltis c calligaster,Lampropeltis calligaster,Lampropeltis_calligaster,Colubridae,39.98625,-90.060227,187,Male,216,87,100MCP,8.3,5033.09,944.04,111.08,102.98,6,0,0
+Richardson et al. 2006,Lampropeltis c calligaster,Lampropeltis calligaster,Lampropeltis_calligaster,Colubridae,39.98625,-90.060227,187,Female,176.5,82.3,100MCP,2.4,5033.09,944.04,111.08,102.98,6,0,0
+Anguiano and Diffendorfer 2015,Lampropeltis getula,Lampropeltis getula,Lampropeltis_getula,Colubridae,32.818405,-117.036437,375,Male,236.39,82.03,95KD,5.27,5196.81,313.02,173.56,36.9,16,2,0.13
+Anguiano and Diffendorfer 2015,Lampropeltis getula,Lampropeltis getula,Lampropeltis_getula,Colubridae,32.818405,-117.036437,375,Female,220.31,79.88,95KD,1.85,5196.81,313.02,173.56,36.9,16,2,0.13
+Linehan et al. 2010,Lampropeltis getula,Lampropeltis getula,Lampropeltis_getula,Colubridae,31.250659,-84.37259,50,Male,296.25,102.29,100MCP,49.5,6969.61,1321.95,192.67,65.74,16,2,0.13
+Linehan et al. 2010,Lampropeltis getula getula,Lampropeltis getula,Lampropeltis_getula,Colubridae,31.250659,-84.37259,50,Female,216,98.7,100MCP,49.4,6969.61,1321.95,192.67,65.74,16,2,0.13
+Plummer 2010,Lampropeltis getula,Lampropeltis getula,Lampropeltis_getula,Colubridae,35.251506,-91.57534,58,Male,296.25,93.125,100MCP,18,5639.05,1283.97,159.92,87.06,16,2,0.13
+Plummer 2010,Lampropeltis getula holbrooki,Lampropeltis getula,Lampropeltis_getula,Colubridae,35.251506,-91.57534,58,Female,216,84.5,100MCP,2.8,5639.05,1283.97,159.92,87.06,16,2,0.13
+Wund et al. 2007,Lampropeltis getula,Lampropeltis getula,Lampropeltis_getula,Colubridae,39.741412,-74.726279,14,Male,296.25,98.9,100MCP,18.4,8338.76,1125.61,118.24,87.58,16,2,0.13
+Wund et al. 2007,Lampropeltis getula getula,Lampropeltis getula,Lampropeltis_getula,Colubridae,39.741412,-74.726279,14,Female,216,86.3,100MCP,12.2,8338.76,1125.61,118.24,87.58,16,2,0.13
+Ettling et al. 2013,Montivipera raddei,Montivipera raddei,Montivipera_raddei,Viperidae,40.350705,44.709338,2074,Male,182.63,71.13,95MCP,18.83,4312.74,469.95,59.71,83.21,3,0,0
+Ettling et al. 2013,Montivipera raddei,Montivipera raddei,Montivipera_raddei,Viperidae,40.350705,44.709338,2074,Female,134.8,66.3,95MCP,32.28,4312.74,469.95,59.71,83.21,3,0,0
+Corey and Doody 2010,Morelia spilota,Morelia spilota,Morelia_spilota,Pythonidae,-33.211164,144.990925,106,Male,1600,165.6,100MCP,9.75,2008.12,352.2,176.76,59.52,11,0,0
+Corey and Doody 2010,Morelia spilota,Morelia spilota,Morelia_spilota,Pythonidae,-33.211164,144.990925,106,Female,1400,166.55,100MCP,2.05,2008.12,352.2,176.76,59.52,11,0,0
+Michael et al. 2014,Morelia spilota,Morelia spilota,Morelia_spilota,Pythonidae,-35.154131,150.711586,90,Male,1630,160.45,100MCP,41.3,12815.73,1393.68,166.65,34.02,11,0,0
+Michael et al. 2014,Morelia spilota spilota,Morelia spilota,Morelia_spilota,Pythonidae,-35.154131,150.711586,90,Female,2298,170.11,100MCP,23.3,12815.73,1393.68,166.65,34.02,11,0,0
+Slip and Shine 1988,Morelia spilota,Morelia spilota,Morelia_spilota,Pythonidae,-33.739447,151.226575,118,Male,1550,162.5,100MCP,52.8,13843.07,1284.63,171.15,39.64,11,0,0
+Slip and Shine 1988,Morelia spilota spilota,Morelia spilota,Morelia_spilota,Pythonidae,-33.739447,151.226575,118,Female,3000,206,100MCP,27.84,13843.07,1284.63,171.15,39.64,11,0,0
+Wilson et al. 2006,Morelia viridis,Morelia viridis,Morelia_viridis,Pythonidae,-12.76055,143.292144,52,Female,284.9,96.1,95MCP,6.21,9781.56,1890.94,256.58,16.66,3,0,0
+Madsen 1984,Natrix natrix,Natrix natrix,Natrix_natrix,Colubridae,55.667364,13.501706,25,Male,78.5,75.7,100MCP,17.3,6052.3,666.29,77.07,64.34,24,14,0.58
+Madsen 1984,Natrix natrix,Natrix natrix,Natrix_natrix,Colubridae,55.667364,13.501706,25,Female,315,103,100MCP,24.9,6052.3,666.29,77.07,64.34,24,14,0.58
+Roe et al. 2004,Nerodia erythrogaster,Nerodia erythrogaster,Nerodia_erythrogaster,Colubridae,41.690609,-84.672734,280,Male,261.3,75.5,100MCP,18.9,5835.17,893.79,86.51,99.11,11,11,1
+Roe et al. 2004,Nerodia erythrogaster neglecta,Nerodia erythrogaster,Nerodia_erythrogaster,Colubridae,41.690609,-84.672734,280,Female,372.6,81.1,100MCP,12.1,5835.17,893.79,86.51,99.11,11,11,1
+Pattishall and Cundall 2008,Nerodia sipedon,Nerodia sipedon,Nerodia_sipedon,Colubridae,40.635438,-75.387539,73,Male,95.5,62.19,100MCP,1.2,6631.34,1141.96,103.94,92.9,18,18,1
+Pattishall and Cundall 2008,Nerodia sipedon,Nerodia sipedon,Nerodia_sipedon,Colubridae,40.635438,-75.387539,73,Female,232.8,69.26,100MCP,1.3,6631.34,1141.96,103.94,92.9,18,18,1
+Roe et al. 2004,Nerodia sipedon,Nerodia sipedon,Nerodia_sipedon,Colubridae,41.690609,-84.672734,280,Male,95.5,53.3,100MCP,5.6,5835.17,893.79,86.51,99.11,18,18,1
+Roe et al. 2004,Nerodia sipedon sipedon,Nerodia sipedon,Nerodia_sipedon,Colubridae,41.690609,-84.672734,280,Female,232.8,66.7,100MCP,3.3,5835.17,893.79,86.51,99.11,18,18,1
+Roth and Greene 2006,Nerodia sipedon,Nerodia sipedon,Nerodia_sipedon,Colubridae,37.11704,-93.259097,374,Male,95.5,59.04,95KD,2.92,5280.06,1091.97,129.7,92.32,18,18,1
+Roth and Greene 2006,Nerodia sipedon,Nerodia sipedon,Nerodia_sipedon,Colubridae,37.11704,-93.259097,374,Female,232.8,69.84,95KD,2.72,5280.06,1091.97,129.7,92.32,18,18,1
+Blouin-Demers et al. 2007,Elaphe obsoleta,Pantherophis alleghaniensis,Pantherophis_alleghaniensis,Colubridae,44.567476,-76.324975,122,Male,515.17,120,100MCP,16.7,6185.87,892.74,62.6,106.39,6,1,0.17
+Blouin-Demers et al. 2007,Elaphe obsoleta,Pantherophis alleghaniensis,Pantherophis_alleghaniensis,Colubridae,44.567476,-76.324975,122,Female,450.19,115,100MCP,13.7,6185.87,892.74,62.6,106.39,6,1,0.17
+Durner and Gates 1993,Elaphe obsoleta obsoleta,Pantherophis alleghaniensis,Pantherophis_alleghaniensis,Colubridae,39.156138,-76.167424,10,Male,595.41,127.5,100MCP,9.69,6655.06,1100.92,130.1,88.63,6,1,0.17
+Durner and Gates 1993,Elaphe obsoleta obsoleta,Pantherophis alleghaniensis,Pantherophis_alleghaniensis,Colubridae,39.156138,-76.167424,10,Female,478.65,118.9,100MCP,9.24,6655.06,1100.92,130.1,88.63,6,1,0.17
+Stapleton 2005,Elaphe obsoleta,Pantherophis alleghaniensis,Pantherophis_alleghaniensis,Colubridae,30.687229,-84.106029,73,Male,554.44,123.75,95KD,11,9585.45,1416.45,193.2,62.99,6,1,0.17
+Stapleton 2005,Elaphe obsoleta,Pantherophis alleghaniensis,Pantherophis_alleghaniensis,Colubridae,30.687229,-84.106029,73,Female,464.32,116.95,95KD,8.86,9585.45,1416.45,193.2,62.99,6,1,0.17
+Weatherhead and Hoysak 1989,Elaphe obsoleta,Pantherophis alleghaniensis,Pantherophis_alleghaniensis,Colubridae,44.567476,-76.324975,122,Male,554.44,123.75,100MCP,3.9,6185.87,892.74,62.6,106.39,6,1,0.17
+Weatherhead and Hoysak 1989,Elaphe obsoleta,Pantherophis alleghaniensis,Pantherophis_alleghaniensis,Colubridae,44.567476,-76.324975,122,Female,464.32,116.95,100MCP,1.22,6185.87,892.74,62.6,106.39,6,1,0.17
+Klug et al. 2011,Pantherophis emoryi,Pantherophis emoryi,Pantherophis_emoryi,Colubridae,39.096236,-96.598181,388,Male,236.4,89.3,100MCP,15.24,3229.07,862.75,121.04,104.21,11,2,0.18
+Klug et al. 2011,Pantherophis emoryi,Pantherophis emoryi,Pantherophis_emoryi,Colubridae,39.096236,-96.598181,388,Female,295.3,90.7,100MCP,14.52,3229.07,862.75,121.04,104.21,11,2,0.18
+Sperry and Taylor 2008,Elaphe guttata emoryi,Pantherophis emoryi,Pantherophis_emoryi,Colubridae,31.194504,-97.741296,242,Male,252.1,85.7,100MCP,10.17,3425.75,787.21,189.85,76.05,9,2,0.22
+Stapleton 2005,Elaphe guttata,Pantherophis guttatus,Pantherophis_guttatus,Colubridae,30.687229,-84.106029,73,Male,244.25,87.5,100MCP,12.2,9585.45,1416.45,193.2,62.99,9,2,0.22
+Stapleton 2005,Elaphe guttata,Pantherophis guttatus,Pantherophis_guttatus,Colubridae,30.687229,-84.106029,73,Female,253.65,84.75,100MCP,5.3,9585.45,1416.45,193.2,62.99,9,2,0.22
+Carfagno and Weatherhead 2008,Elaphe obsoleta,Pantherophis spiloides,Pantherophis_spiloides,Colubridae,37.372805,-88.964218,104,Male,758.6,134.6,100MCP,6.2,6121.11,1193.97,136.15,92.6,6,1,0.17
+Carfagno and Weatherhead 2008,Elaphe obsoleta,Pantherophis spiloides,Pantherophis_spiloides,Colubridae,37.372805,-88.964218,104,Female,527,118.9,100MCP,3.5,6121.11,1193.97,136.15,92.6,6,1,0.17
+Shew et al. 2012,Pantherophis vulpinus,Pantherophis vulpinus,Pantherophis_vulpinus,Colubridae,40.086931,-95.249546,262,Male,250,88.88,100MCP,44.9,3404.81,880.55,111.53,107.99,5,0,0
+Shew et al. 2012,Pantherophis vulpinus,Pantherophis vulpinus,Pantherophis_vulpinus,Colubridae,40.086931,-95.249546,262,Female,363.33,97.3,100MCP,22.8,3404.81,880.55,111.53,107.99,5,0,0
+Shew et al. 2012,Pantherophis vulpinus,Pantherophis vulpinus,Pantherophis_vulpinus,Colubridae,40.086931,-95.249546,262,Male,250,88.88,95KD,54.3,3404.81,880.55,111.53,107.99,5,0,0
+Shew et al. 2012,Pantherophis vulpinus,Pantherophis vulpinus,Pantherophis_vulpinus,Colubridae,40.086931,-95.249546,262,Female,363.33,97.3,95KD,39.9,3404.81,880.55,111.53,107.99,5,0,0
+Gardiner et al. 2013,Pituophis catenifer sayi,Pituophis catenifer,Pituophis_catenifer,Colubridae,49.168381,-107.632244,786,Male,1140,129,100MCP,58.1,2698.73,319.57,39.89,115.09,17,6,0.35
+Gardiner et al. 2013,Pituophis catenifer sayi,Pituophis catenifer,Pituophis_catenifer,Colubridae,49.168381,-107.632244,786,Female,914,126,100MCP,115.5,2698.73,319.57,39.89,115.09,17,6,0.35
+Kapfer et al. 2008,Pituophis catenifer sayi,Pituophis catenifer,Pituophis_catenifer,Colubridae,43.412078,-89.809265,420,Male,1140,129,95KD,82.91,4718.41,814.58,70.85,112.11,17,6,0.35
+Kapfer et al. 2008,Pituophis catenifer sayi,Pituophis catenifer,Pituophis_catenifer,Colubridae,43.412078,-89.809265,420,Female,914,126,95KD,52.68,4718.41,814.58,70.85,112.11,17,6,0.35
+Martino et al. 2012,Pituophis catenifer sayi,Pituophis catenifer,Pituophis_catenifer,Colubridae,49.168381,-107.632244,786,Male,1140,129,100MCP,58,2698.73,319.57,39.89,115.09,17,6,0.35
+Martino et al. 2012,Pituophis catenifer sayi,Pituophis catenifer,Pituophis_catenifer,Colubridae,49.168381,-107.632244,786,Female,914,126,100MCP,116,2698.73,319.57,39.89,115.09,17,6,0.35
+Rodriguez-Robles 2003,Pituophis catenifer,Pituophis catenifer,Pituophis_catenifer,Colubridae,37.995644,-122.358631,21,Male,338,98.25,95MCP,1.74,8191.5,663.57,145.13,33.85,17,6,0.35
+Baxley and Qualls 2009,Pituophis melanoleucus lodingi,Pituophis melanoleucus,Pituophis_melanoleucus,Colubridae,31.066949,-88.983341,52,Male,1004.6,138.4,90KD,166.7,8469.46,1599.6,184.5,67.73,1,0,0
+Baxley and Qualls 2009,Pituophis melanoleucus lodingi,Pituophis melanoleucus,Pituophis_melanoleucus,Colubridae,31.066949,-88.983341,52,Female,836,141.7,90KD,129.4,8469.46,1599.6,184.5,67.73,1,0,0
+Gerald et al. 2006,Pituophis melanoleucus melanoleucus,Pituophis melanoleucus,Pituophis_melanoleucus,Colubridae,35.374135,-86.066546,327,Male,1004.6,137.38,100MCP,85.3,7568.43,1462.67,142.03,80.97,1,0,0
+Gerald et al. 2006,Pituophis melanoleucus melanoleucus,Pituophis melanoleucus,Pituophis_melanoleucus,Colubridae,35.374135,-86.066546,327,Female,836,136.83,100MCP,67.84,7568.43,1462.67,142.03,80.97,1,0,0
+Miller et al. 2012,Pituophis melanoleucus mugitus,Pituophis melanoleucus,Pituophis_melanoleucus,Colubridae,31.250659,-84.37259,50,Male,1004.6,134.45,95KD,27.1,6969.61,1321.95,192.67,65.74,1,0,0
+Miller et al. 2012,Pituophis melanoleucus mugitus,Pituophis melanoleucus,Pituophis_melanoleucus,Colubridae,31.250659,-84.37259,50,Female,836,123.93,95KD,28.9,6969.61,1321.95,192.67,65.74,1,0,0
+Zappalorti et al. 2015,Pituophis melanoleucus melanoleucus,Pituophis melanoleucus,Pituophis_melanoleucus,Colubridae,39.233617,-75.124505,5,Male,1004.6,134.45,100MCP,91,6687.81,1075.87,125.11,87.03,1,0,0
+Zappalorti et al. 2015,Pituophis melanoleucus melanoleucus,Pituophis melanoleucus,Pituophis_melanoleucus,Colubridae,39.233617,-75.124505,5,Female,836,123.93,100MCP,65,6687.81,1075.87,125.11,87.03,1,0,0
+Whitaker and Shine 2003,Pseudonaja textilis,Pseudonaja textilis,Pseudonaja_textilis,Elapidae,-34.651519,146.47705,144,Male,692,125,100MCP,11.79,4095.61,464.4,166.29,59.21,17,2,0.12
+Whitaker and Shine 2003,Pseudonaja textilis,Pseudonaja textilis,Pseudonaja_textilis,Elapidae,-34.651519,146.47705,144,Female,512,117,100MCP,1.46,4095.61,464.4,166.29,59.21,17,2,0.12
+Walters et al. 2016,Python bivitattus,Python bivitattus,Python_bivittatus,Pythonidae,25.450402,-80.771068,2,Male,14006,265.8,100MCP,1791,5094.470443,1364.457213,236.1577017,34.38721928,9,4,0.444444444
+Walters et al. 2016,Python bivitattus,Python bivitattus,Python_bivittatus,Pythonidae,25.450402,-80.771068,2,Female,25673,332.8,100MCP,2458,5094.470443,1364.457213,236.1577017,34.38721928,9,4,0.444444444
+Kojima and Mori 2014,Rhabdophis tigrinus,Rhabdophis tigrinus,Rhabdophis_tigrinus,Colubridae,35.310689,135.730042,539,Male,84,61.217,100MCP,5.067,7930.38,1950.54,117.15,87.01,8,0,0
+Kojima and Mori 2014,Rhabdophis tigrinus,Rhabdophis tigrinus,Rhabdophis_tigrinus,Colubridae,35.310689,135.730042,539,Female,200,75.9,100MCP,6.35,7930.38,1950.54,117.15,87.01,8,0,0
+DeGregorio et al. 2011,Sistrurus c catenatus,Sistrurus catenatus,Sistrurus_catenatus,Viperidae,44.642473,-84.723952,333,Male,213.9,54.15,100MCP,29.8,6241.82,784.14,57.88,103.32,10,3,0.3
+DeGregorio et al. 2011,Sistrurus c catenatus,Sistrurus catenatus,Sistrurus_catenatus,Viperidae,44.642473,-84.723952,333,Female,150.63,47.79,100MCP,14.4,6241.82,784.14,57.88,103.32,10,3,0.3
+Johnson 2000,Sistrurus c catenatus,Sistrurus catenatus,Sistrurus_catenatus,Viperidae,43.145227,-76.037752,120,Male,217.7,52.575,100MCP,27.8,6298.68,1042.23,82.46,98.33,10,3,0.3
+Johnson 2000,Sistrurus c catenatus,Sistrurus catenatus,Sistrurus_catenatus,Viperidae,43.145227,-76.037752,120,Female,188.46,51.31,100MCP,41.4,6298.68,1042.23,82.46,98.33,10,3,0.3
+Marshall et al. 2006,Sistrurus c catenatus,Sistrurus catenatus,Sistrurus_catenatus,Viperidae,41.675821,-85.28099,280,Male,217.7,52.575,100MCP,7.32,5635.71,917.2,87.82,100.49,10,3,0.3
+Marshall et al. 2006,Sistrurus c catenatus,Sistrurus catenatus,Sistrurus_catenatus,Viperidae,41.675821,-85.28099,280,Female,188.46,51.31,100MCP,3.36,5635.71,917.2,87.82,100.49,10,3,0.3
+Moore and Gillingham 2006,Sistrurus c catenatus,Sistrurus catenatus,Sistrurus_catenatus,Viperidae,41.931282,-83.96866,216,Male,217.7,54.3,100MCP,1.64,5417.26,846.98,89.85,98.87,10,3,0.3
+Moore and Gillingham 2006,Sistrurus c catenatus,Sistrurus catenatus,Sistrurus_catenatus,Viperidae,41.931282,-83.96866,216,Female,188.46,53.7,100MCP,1.21,5417.26,846.98,89.85,98.87,10,3,0.3
+Wastell and Mackessy 2011,Sistrurus catenatus edwardsii,Sistrurus catenatus,Sistrurus_catenatus,Viperidae,37.233498,-102.914053,1490,Male,64.1,41.15,95KD,149.92,2145.83,401.15,114.68,88.04,10,3,0.3
+Wastell and Mackessy 2011,Sistrurus catenatus edwardsii,Sistrurus catenatus,Sistrurus_catenatus,Viperidae,37.233498,-102.914053,1490,Female,49,38.13,95KD,39.17,2145.83,401.15,114.68,88.04,10,3,0.3
+Valcarcel 2011,Thamnophis gigas,Thamnophis gigas,Thamnophis_gigas,Colubridae,38.99223,-121.701101,11,Male,NA,NA,95KD,,4494.99,480.57,164.8,63.33,10,10,1
+Valcarcel 2011,Thamnophis gigas,Thamnophis gigas,Thamnophis_gigas,Colubridae,38.99223,-121.701101,11,Female,268,78.2,95KD,39.53,4494.99,480.57,164.8,63.33,10,10,1
+Wylie and Amarello 2008,Thamnophis gigas,Thamnophis gigas,Thamnophis_gigas,Colubridae,38.814235,-121.788979,10,Male,192,75,100MCP,12.75,4450.42,470.02,162.88,65.76,10,10,1
+Wylie and Amarello 2008,Thamnophis gigas,Thamnophis gigas,Thamnophis_gigas,Colubridae,38.814235,-121.788979,10,Female,354,88.4,100MCP,39.96,4450.42,470.02,162.88,65.76,10,10,1
+Brito 2003,Vipera latastei,Vipera latastei,Vipera_latastei,Viperidae,41.833206,-8.124453,750,Male,97.4,48.6,100MCP,0.24,8868.79,1448.05,110.37,49.4,6,0,0
+Lelievre et al. 2012,Zamenis longissimus,Zamenis longissimus,Zamenis_longissimus,Colubridae,46.120653,0.425092,175,Male,278.3,100.2,100MCP,7.53,7764.85,848.33,114.73,56.36,10,0,0
+Lelievre et al. 2012,Zamenis longissimus,Zamenis longissimus,Zamenis_longissimus,Colubridae,46.120653,0.425092,175,Female,202.9,88.4,100MCP,6.88,7764.85,848.33,114.73,56.36,10,0,0
